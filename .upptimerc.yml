@@ -22,6 +22,7 @@ status-website:
   cname: status.twy.name
   # baseUrl: /your-repo-name
   logoUrl: https://twy.name/favicon_192.png
+  themeUrl: https://status.twy.name/custom-theme.css
   name: Uptime Monitor
   introTitle: "TWY Tools / Discord Bot / File Server status page, powered entirely by GitHub and [**Upptime**](https://github.com/upptime/upptime)."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
