@@ -3,8 +3,9 @@ owner: t-wy # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: TWY Tools
+  - name: Homepage
     url: https://twy.name/
+    slug: twy-tools
   - name: API 1
     url: http://api1.twy.name/
   - name: API 2
@@ -25,10 +26,12 @@ status-website:
   themeUrl: https://status.twy.name/custom-theme.css
   name: Uptime Monitor
   introTitle: "TWY Tools / Discord Bot / File Server status page, powered entirely by GitHub and [**Upptime**](https://github.com/upptime/upptime)."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/t-wy/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: Homepage
+      href: https://twy.name/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
