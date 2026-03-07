@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/twy.name.ico",
     "slug": "twy-tools",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 1376,
     "timeDay": 1056,
     "timeWeek": 1065,
@@ -78,10 +78,10 @@
     "url": "http://api4.twy.name/",
     "icon": "https://icons.duckduckgo.com/ip3/api4.twy.name.ico",
     "slug": "api-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
@@ -89,16 +89,18 @@
     "timeWeek": 355,
     "timeMonth": 335,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-07": 1
+    }
   },
   {
     "name": "Discord Bot / File Server",
     "url": "https://files.twy.name/icons/blank.gif",
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +109,8 @@
     "timeWeek": 513,
     "timeMonth": 496,
     "timeYear": 496,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-07": 0
+    }
   }
 ]
