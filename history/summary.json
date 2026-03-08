@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/twy.name.ico",
     "slug": "twy-tools",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 1376,
-    "timeDay": 1056,
-    "timeWeek": 1065,
-    "timeMonth": 1376,
-    "timeYear": 1376,
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 1361,
+    "timeDay": 933,
+    "timeWeek": 1048,
+    "timeMonth": 1361,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2026-02-19": 111
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 303,
-    "timeWeek": 349,
+    "timeDay": 346,
+    "timeWeek": 344,
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 346,
+    "time": 330,
+    "timeDay": 349,
     "timeWeek": 330,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 321,
-    "timeWeek": 342,
-    "timeMonth": 337,
-    "timeYear": 337,
+    "time": 336,
+    "timeDay": 327,
+    "timeWeek": 329,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -79,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api4.twy.name.ico",
     "slug": "api-4",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 350,
-    "timeWeek": 350,
+    "timeDay": 319,
+    "timeWeek": 346,
     "timeMonth": 334,
     "timeYear": 334,
-    "dailyMinutesDown": {
-      "2026-03-07": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Bot / File Server",
@@ -99,18 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 545,
-    "timeDay": 1248,
-    "timeWeek": 695,
-    "timeMonth": 545,
-    "timeYear": 545,
-    "dailyMinutesDown": {
-      "2026-03-07": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 543,
+    "timeDay": 1226,
+    "timeWeek": 687,
+    "timeMonth": 543,
+    "timeYear": 543,
+    "dailyMinutesDown": {}
   }
 ]
