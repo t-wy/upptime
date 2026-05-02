@@ -61,9 +61,9 @@
     "url": "http://api3.twy.name/",
     "icon": "https://icons.duckduckgo.com/ip3/api3.twy.name.ico",
     "slug": "api-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +72,9 @@
     "timeWeek": 292,
     "timeMonth": 303,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-02": 0
+    }
   },
   {
     "name": "API 4",
