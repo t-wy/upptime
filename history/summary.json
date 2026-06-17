@@ -100,19 +100,19 @@
     "url": "https://files.twy.name/icons/blank.gif",
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 454,
-    "timeWeek": 486,
-    "timeMonth": 498,
-    "timeYear": 495,
+    "time": 526,
+    "timeDay": 1842,
+    "timeWeek": 945,
+    "timeMonth": 622,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2026-06-17": 0
+      "2026-06-17": 7
     }
   }
 ]
