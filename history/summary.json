@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1391,
-    "timeDay": 1546,
-    "timeWeek": 1241,
-    "timeMonth": 1237,
-    "timeYear": 1391,
+    "time": 1387,
+    "timeDay": 857,
+    "timeWeek": 1232,
+    "timeMonth": 1227,
+    "timeYear": 1387,
     "dailyMinutesDown": {
       "2026-02-19": 111,
       "2026-04-27": 140,
@@ -33,8 +33,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 364,
-    "timeWeek": 340,
+    "timeDay": 377,
+    "timeWeek": 359,
     "timeMonth": 348,
     "timeYear": 333,
     "dailyMinutesDown": {}
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 369,
-    "timeWeek": 339,
-    "timeMonth": 359,
+    "timeDay": 349,
+    "timeWeek": 355,
+    "timeMonth": 355,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 328,
-    "timeDay": 373,
-    "timeWeek": 342,
+    "time": 329,
+    "timeDay": 379,
+    "timeWeek": 361,
     "timeMonth": 345,
-    "timeYear": 328,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2026-05-02": 49
     }
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 370,
-    "timeWeek": 337,
-    "timeMonth": 342,
+    "timeDay": 346,
+    "timeWeek": 352,
+    "timeMonth": 341,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -101,18 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 562,
-    "timeDay": 2306,
-    "timeWeek": 1319,
+    "timeDay": 2300,
+    "timeWeek": 1330,
     "timeMonth": 758,
     "timeYear": 562,
-    "dailyMinutesDown": {
-      "2026-06-17": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
