@@ -84,9 +84,9 @@
     "slug": "api-4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 987,
     "timeDay": 26061,
@@ -94,7 +94,7 @@
     "timeMonth": 3446,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2026-07-09": 30
+      "2026-07-09": 25
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://files.twy.name/icons/blank.gif",
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "91.70%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.94%",
-    "time": 548,
-    "timeDay": 477,
-    "timeWeek": 497,
-    "timeMonth": 728,
-    "timeYear": 548,
+    "time": 563,
+    "timeDay": 1761,
+    "timeWeek": 815,
+    "timeMonth": 791,
+    "timeYear": 563,
     "dailyMinutesDown": {
-      "2026-07-09": 119
+      "2026-07-09": 124
     }
   }
 ]
