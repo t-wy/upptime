@@ -8,13 +8,13 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1655,
-    "timeDay": 1337,
-    "timeWeek": 1054,
-    "timeMonth": 2780,
-    "timeYear": 1655,
+    "time": 1652,
+    "timeDay": 1024,
+    "timeWeek": 1059,
+    "timeMonth": 2825,
+    "timeYear": 1652,
     "dailyMinutesDown": {
       "2026-02-19": 111,
       "2026-04-27": 140,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 372,
-    "timeWeek": 326,
-    "timeMonth": 330,
+    "timeDay": 340,
+    "timeWeek": 335,
+    "timeMonth": 333,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 350,
-    "timeWeek": 322,
-    "timeMonth": 327,
+    "timeDay": 423,
+    "timeWeek": 348,
+    "timeMonth": 332,
     "timeYear": 331,
     "dailyMinutesDown": {}
   },
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 356,
-    "timeDay": 385,
-    "timeWeek": 315,
-    "timeMonth": 489,
+    "timeDay": 335,
+    "timeWeek": 328,
+    "timeMonth": 491,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2026-05-02": 49
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 871,
-    "timeDay": 373,
-    "timeWeek": 319,
-    "timeMonth": 310,
-    "timeYear": 871,
+    "time": 868,
+    "timeDay": 342,
+    "timeWeek": 334,
+    "timeMonth": 312,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2026-07-09": 25
     }
@@ -105,18 +105,17 @@
     "slug": "discord-bot-file-server",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 773,
-    "timeDay": 13674,
-    "timeWeek": 4872,
-    "timeMonth": 1750,
-    "timeYear": 773,
+    "time": 771,
+    "timeDay": 13645,
+    "timeWeek": 4874,
+    "timeMonth": 1753,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2026-07-09": 124,
-      "2026-08-10": 3
+      "2026-07-09": 124
     }
   }
 ]
