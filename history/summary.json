@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1722,
-    "timeDay": 911,
-    "timeWeek": 3172,
-    "timeMonth": 3063,
-    "timeYear": 1722,
+    "time": 1718,
+    "timeDay": 899,
+    "timeWeek": 3197,
+    "timeMonth": 3062,
+    "timeYear": 1718,
     "dailyMinutesDown": {
       "2026-02-19": 111,
       "2026-04-27": 140,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 271,
-    "timeWeek": 304,
-    "timeMonth": 326,
+    "timeDay": 321,
+    "timeWeek": 312,
+    "timeMonth": 327,
     "timeYear": 331,
     "dailyMinutesDown": {}
   },
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 272,
-    "timeWeek": 303,
+    "timeDay": 313,
+    "timeWeek": 305,
     "timeMonth": 324,
     "timeYear": 330,
     "dailyMinutesDown": {}
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 354,
-    "timeDay": 263,
-    "timeWeek": 300,
-    "timeMonth": 486,
-    "timeYear": 354,
+    "time": 353,
+    "timeDay": 315,
+    "timeWeek": 306,
+    "timeMonth": 488,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2026-05-02": 49
     }
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 839,
-    "timeDay": 265,
-    "timeWeek": 297,
-    "timeMonth": 314,
-    "timeYear": 839,
+    "time": 837,
+    "timeDay": 320,
+    "timeWeek": 307,
+    "timeMonth": 317,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2026-07-09": 25
     }
@@ -105,18 +105,17 @@
     "slug": "discord-bot-file-server",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 767,
-    "timeDay": 1336,
-    "timeWeek": 738,
-    "timeMonth": 1700,
-    "timeYear": 767,
+    "time": 765,
+    "timeDay": 1383,
+    "timeWeek": 753,
+    "timeMonth": 1625,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2026-07-09": 124,
-      "2026-08-20": 5
+      "2026-07-09": 124
     }
   }
 ]
