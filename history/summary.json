@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1704,
-    "timeDay": 1328,
-    "timeWeek": 1146,
-    "timeMonth": 2572,
+    "timeDay": 0,
+    "timeWeek": 1188,
+    "timeMonth": 1734,
     "timeYear": 1704,
     "dailyMinutesDown": {
       "2026-02-19": 111,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 337,
-    "timeWeek": 348,
-    "timeMonth": 334,
+    "timeDay": 0,
+    "timeWeek": 353,
+    "timeMonth": 333,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 334,
-    "timeWeek": 336,
-    "timeMonth": 332,
+    "timeDay": 0,
+    "timeWeek": 340,
+    "timeMonth": 331,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 353,
-    "timeDay": 315,
-    "timeWeek": 326,
-    "timeMonth": 490,
+    "timeDay": 0,
+    "timeWeek": 328,
+    "timeMonth": 494,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2026-05-02": 49
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 822,
-    "timeDay": 308,
-    "timeWeek": 336,
-    "timeMonth": 326,
+    "timeDay": 0,
+    "timeWeek": 339,
+    "timeMonth": 324,
     "timeYear": 822,
     "dailyMinutesDown": {
       "2026-07-09": 25
@@ -103,19 +103,20 @@
     "url": "https://files.twy.name/icons/blank.gif",
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 758,
-    "timeDay": 496,
-    "timeWeek": 780,
-    "timeMonth": 1632,
+    "timeDay": 0,
+    "timeWeek": 478,
+    "timeMonth": 1663,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2026-07-09": 124
+      "2026-07-09": 124,
+      "2026-08-28": 0
     }
   }
 ]
