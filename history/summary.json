@@ -13,7 +13,7 @@
     "time": 1740,
     "timeDay": 1312,
     "timeWeek": 2556,
-    "timeMonth": 1981,
+    "timeMonth": 1999,
     "timeYear": 1740,
     "dailyMinutesDown": {
       "2026-02-19": 111,
@@ -103,19 +103,20 @@
     "url": "https://files.twy.name/icons/blank.gif",
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 751,
-    "timeDay": 511,
-    "timeWeek": 501,
-    "timeMonth": 1574,
-    "timeYear": 751,
+    "time": 750,
+    "timeDay": 518,
+    "timeWeek": 505,
+    "timeMonth": 1548,
+    "timeYear": 750,
     "dailyMinutesDown": {
-      "2026-07-09": 124
+      "2026-07-09": 124,
+      "2026-08-31": 0
     }
   }
 ]
