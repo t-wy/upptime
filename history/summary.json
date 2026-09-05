@@ -12,7 +12,7 @@
     "uptimeYear": "99.89%",
     "time": 1731,
     "timeDay": 1599,
-    "timeWeek": 1322,
+    "timeWeek": 1367,
     "timeMonth": 2066,
     "timeYear": 1731,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 331,
     "timeDay": 363,
-    "timeWeek": 343,
+    "timeWeek": 338,
     "timeMonth": 329,
     "timeYear": 331,
     "dailyMinutesDown": {}
@@ -71,7 +71,7 @@
     "uptimeYear": "99.98%",
     "time": 353,
     "timeDay": 348,
-    "timeWeek": 359,
+    "timeWeek": 356,
     "timeMonth": 330,
     "timeYear": 353,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeYear": "99.99%",
     "time": 802,
     "timeDay": 327,
-    "timeWeek": 331,
+    "timeWeek": 326,
     "timeMonth": 321,
     "timeYear": 802,
     "dailyMinutesDown": {
@@ -103,19 +103,20 @@
     "url": "https://files.twy.name/icons/blank.gif",
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 740,
-    "timeDay": 517,
-    "timeWeek": 494,
+    "timeDay": 513,
+    "timeWeek": 492,
     "timeMonth": 1448,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2026-07-09": 124
+      "2026-07-09": 124,
+      "2026-09-05": 0
     }
   }
 ]
