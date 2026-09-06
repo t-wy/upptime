@@ -103,11 +103,11 @@
     "url": "https://files.twy.name/icons/blank.gif",
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 736,
     "timeDay": 458,
@@ -116,7 +116,7 @@
     "timeYear": 736,
     "dailyMinutesDown": {
       "2026-07-09": 124,
-      "2026-09-06": 2
+      "2026-09-06": 0
     }
   }
 ]
