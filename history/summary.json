@@ -13,7 +13,7 @@
     "time": 1691,
     "timeDay": 898,
     "timeWeek": 993,
-    "timeMonth": 1618,
+    "timeMonth": 1635,
     "timeYear": 1691,
     "dailyMinutesDown": {
       "2026-02-19": 111,
@@ -45,18 +45,20 @@
     "url": "http://api2.twy.name/",
     "icon": "https://icons.duckduckgo.com/ip3/api2.twy.name.ico",
     "slug": "api-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 257,
     "timeWeek": 289,
-    "timeMonth": 320,
+    "timeMonth": 319,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-28": 0
+    }
   },
   {
     "name": "API 3",
@@ -72,7 +74,7 @@
     "time": 349,
     "timeDay": 311,
     "timeWeek": 310,
-    "timeMonth": 328,
+    "timeMonth": 327,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2026-05-02": 49
@@ -92,7 +94,7 @@
     "time": 752,
     "timeDay": 261,
     "timeWeek": 303,
-    "timeMonth": 317,
+    "timeMonth": 316,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2026-07-09": 25
@@ -112,7 +114,7 @@
     "time": 710,
     "timeDay": 439,
     "timeWeek": 415,
-    "timeMonth": 466,
+    "timeMonth": 462,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2026-07-09": 124
