@@ -27,19 +27,19 @@
     "url": "http://api1.twy.name/",
     "icon": "https://icons.duckduckgo.com/ip3/api1.twy.name.ico",
     "slug": "api-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 337,
-    "timeWeek": 332,
-    "timeMonth": 330,
-    "timeYear": 331,
+    "time": 332,
+    "timeDay": 406,
+    "timeWeek": 350,
+    "timeMonth": 334,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2026-10-30": 1
+      "2026-10-30": 7
     }
   },
   {
@@ -85,20 +85,20 @@
     "url": "http://api4.twy.name/",
     "icon": "https://icons.duckduckgo.com/ip3/api4.twy.name.ico",
     "slug": "api-4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 701,
-    "timeDay": 337,
-    "timeWeek": 315,
-    "timeMonth": 319,
-    "timeYear": 701,
+    "time": 699,
+    "timeDay": 290,
+    "timeWeek": 306,
+    "timeMonth": 316,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2026-07-09": 25,
-      "2026-10-30": 0
+      "2026-10-30": 6
     }
   },
   {
@@ -106,20 +106,20 @@
     "url": "https://files.twy.name/icons/blank.gif",
     "icon": "https://icons.duckduckgo.com/ip3/files.twy.name.ico",
     "slug": "discord-bot-file-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 705,
-    "timeDay": 703,
-    "timeWeek": 741,
-    "timeMonth": 686,
+    "timeDay": 765,
+    "timeWeek": 750,
+    "timeMonth": 690,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2026-07-09": 124,
-      "2026-10-30": 0
+      "2026-10-30": 6
     }
   },
   {
