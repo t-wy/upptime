@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1613,
-    "timeDay": 994,
-    "timeWeek": 962,
-    "timeMonth": 1019,
-    "timeYear": 1613,
+    "time": 1611,
+    "timeDay": 1022,
+    "timeWeek": 972,
+    "timeMonth": 1021,
+    "timeYear": 1611,
     "dailyMinutesDown": {
       "2026-02-19": 111,
       "2026-04-27": 140,
@@ -29,18 +29,16 @@
     "slug": "api-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 406,
-    "timeWeek": 350,
-    "timeMonth": 334,
+    "timeDay": 412,
+    "timeWeek": 351,
+    "timeMonth": 335,
     "timeYear": 332,
-    "dailyMinutesDown": {
-      "2026-10-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API 2",
@@ -54,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 346,
-    "timeWeek": 353,
+    "timeDay": 335,
+    "timeWeek": 343,
     "timeMonth": 335,
     "timeYear": 329,
     "dailyMinutesDown": {}
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 346,
-    "timeDay": 297,
-    "timeWeek": 317,
-    "timeMonth": 322,
+    "timeDay": 372,
+    "timeWeek": 325,
+    "timeMonth": 324,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2026-05-02": 49
@@ -87,18 +85,17 @@
     "slug": "api-4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 699,
-    "timeDay": 290,
-    "timeWeek": 306,
-    "timeMonth": 316,
-    "timeYear": 699,
+    "time": 698,
+    "timeDay": 304,
+    "timeWeek": 311,
+    "timeMonth": 318,
+    "timeYear": 698,
     "dailyMinutesDown": {
-      "2026-07-09": 25,
-      "2026-10-30": 6
+      "2026-07-09": 25
     }
   },
   {
@@ -108,18 +105,17 @@
     "slug": "discord-bot-file-server",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 705,
-    "timeDay": 765,
-    "timeWeek": 750,
-    "timeMonth": 690,
-    "timeYear": 705,
+    "time": 706,
+    "timeDay": 781,
+    "timeWeek": 684,
+    "timeMonth": 692,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2026-07-09": 124,
-      "2026-10-30": 6
+      "2026-07-09": 124
     }
   },
   {
@@ -133,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 103,
-    "timeWeek": 77,
-    "timeMonth": 319,
-    "timeYear": 320,
+    "time": 314,
+    "timeDay": 33,
+    "timeWeek": 67,
+    "timeMonth": 309,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   }
 ]
