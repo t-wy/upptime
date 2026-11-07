@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1599,
-    "timeDay": 957,
-    "timeWeek": 989,
-    "timeMonth": 1000,
-    "timeYear": 1599,
+    "time": 1596,
+    "timeDay": 900,
+    "timeWeek": 959,
+    "timeMonth": 992,
+    "timeYear": 1596,
     "dailyMinutesDown": {
       "2026-02-19": 111,
       "2026-04-27": 140,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 291,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 332,
+    "time": 331,
+    "timeDay": 277,
+    "timeWeek": 322,
+    "timeMonth": 330,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 240,
-    "timeWeek": 315,
-    "timeMonth": 329,
+    "timeDay": 287,
+    "timeWeek": 308,
+    "timeMonth": 326,
     "timeYear": 329,
     "dailyMinutesDown": {}
   },
@@ -70,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 345,
-    "timeDay": 301,
-    "timeWeek": 315,
+    "timeDay": 278,
+    "timeWeek": 302,
     "timeMonth": 315,
     "timeYear": 345,
     "dailyMinutesDown": {
@@ -85,19 +85,17 @@
     "slug": "api-4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 688,
-    "timeDay": 283,
-    "timeWeek": 331,
-    "timeMonth": 320,
-    "timeYear": 688,
+    "time": 687,
+    "timeDay": 294,
+    "timeWeek": 322,
+    "timeMonth": 321,
+    "timeYear": 687,
     "dailyMinutesDown": {
-      "2026-07-09": 25,
-      "2026-11-07": 2,
-      "2026-11-06": 3
+      "2026-07-09": 25
     }
   },
   {
@@ -107,18 +105,17 @@
     "slug": "discord-bot-file-server",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 707,
-    "timeDay": 871,
-    "timeWeek": 769,
-    "timeMonth": 744,
+    "timeDay": 789,
+    "timeWeek": 744,
+    "timeMonth": 747,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2026-07-09": 124,
-      "2026-11-07": 1
+      "2026-07-09": 124
     }
   },
   {
@@ -132,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 105,
+    "time": 285,
+    "timeDay": 32,
     "timeWeek": 59,
-    "timeMonth": 269,
-    "timeYear": 290,
+    "timeMonth": 266,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
