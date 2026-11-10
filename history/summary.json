@@ -4,23 +4,23 @@
     "url": "https://twy.name/",
     "icon": "https://icons.duckduckgo.com/ip3/twy.name.ico",
     "slug": "twy-tools",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.91%",
-    "time": 1591,
-    "timeDay": 1379,
-    "timeWeek": 1014,
-    "timeMonth": 1009,
-    "timeYear": 1591,
+    "time": 1656,
+    "timeDay": 11388,
+    "timeWeek": 3562,
+    "timeMonth": 1608,
+    "timeYear": 1656,
     "dailyMinutesDown": {
       "2026-02-19": 111,
       "2026-04-27": 140,
       "2026-05-16": 51,
       "2026-07-10": 36,
-      "2026-11-10": 0
+      "2026-11-10": 12
     }
   },
   {
